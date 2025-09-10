@@ -1,0 +1,110 @@
+Fiery Fury,Fire,28,A charged Fire attack that may leave the foe stunned.
+Savage Ray,Fire,47,A technique that channels Fire energy into a devastating move.
+Blazing Charge,Fire,26,A technique that channels Fire energy into a devastating move.
+Solar Pulse,Fire,28,Generates a wave of Fire force to disrupt the opponent.
+Lunar Pulse,Fire,40,Generates a wave of Fire force to disrupt the opponent.
+Mystic Pulse,Fire,49,A technique that channels Fire energy into a devastating move.
+Mystic Bolt,Fire,44,An explosive Fire strike that radiates raw energy.
+Solar Blast,Fire,22,A charged Fire attack that may leave the foe stunned.
+Blazing Whirl,Fire,28,An explosive Fire strike that radiates raw energy.
+Mystic Strike,Fire,29,An explosive Fire strike that radiates raw energy.
+Mystic Whirl,Water,46,A technique that channels Water energy into a devastating move.
+Thunder Spike,Water,26,A technique that channels Water energy into a devastating move.
+Crystal Whirl,Water,22,A charged Water attack that may leave the foe stunned.
+Lunar Whirl,Water,33,A charged Water attack that may leave the foe stunned.
+Lunar Wave,Water,34,Generates a wave of Water force to disrupt the opponent.
+Savage Whirl,Water,20,A technique that channels Water energy into a devastating move.
+Savage Spike,Water,39,A charged Water attack that may leave the foe stunned.
+Mystic Wave,Water,25,Generates a wave of Water force to disrupt the opponent.
+Blazing Slash,Water,39,A charged Water attack that may leave the foe stunned.
+Thunder Bolt,Water,48,Generates a wave of Water force to disrupt the opponent.
+Venomous Blast,Grass,36,A technique that channels Grass energy into a devastating move.
+Shocking Slash,Grass,21,Generates a wave of Grass force to disrupt the opponent.
+Blazing Blast,Grass,22,A charged Grass attack that may leave the foe stunned.
+Blazing Strike,Grass,36,An explosive Grass strike that radiates raw energy.
+Savage Strike,Grass,21,A charged Grass attack that may leave the foe stunned.
+Mystic Charge,Grass,34,An explosive Grass strike that radiates raw energy.
+Frozen Strike,Grass,41,A technique that channels Grass energy into a devastating move.
+Fiery Charge,Grass,41,A technique that channels Grass energy into a devastating move.
+Shocking Wave,Grass,41,Generates a wave of Grass force to disrupt the opponent.
+Lunar Blast,Grass,29,Generates a wave of Grass force to disrupt the opponent.
+Fiery Strike,Electric,46,A charged Electric attack that may leave the foe stunned.
+Shocking Pulse,Electric,33,Unleashes a powerful Electric-type attack that hits hard.
+Fiery Blast,Electric,43,A charged Electric attack that may leave the foe stunned.
+Mystic Slash,Electric,39,An explosive Electric strike that radiates raw energy.
+Phantom Strike,Electric,48,An explosive Electric strike that radiates raw energy.
+Fiery Pulse,Electric,48,Unleashes a powerful Electric-type attack that hits hard.
+Solar Charge,Electric,42,An explosive Electric strike that radiates raw energy.
+Solar Bolt,Electric,29,Generates a wave of Electric force to disrupt the opponent.
+Fiery Wave,Electric,29,An explosive Electric strike that radiates raw energy.
+Thunder Charge,Electric,50,An explosive Electric strike that radiates raw energy.
+Fiery Whirl,Ice,28,A technique that channels Ice energy into a devastating move.
+Savage Charge,Ice,29,A technique that channels Ice energy into a devastating move.
+Shocking Spike,Ice,20,An explosive Ice strike that radiates raw energy.
+Frozen Blast,Ice,31,A charged Ice attack that may leave the foe stunned.
+Mystic Burst,Ice,29,A charged Ice attack that may leave the foe stunned.
+Frozen Fury,Ice,38,Unleashes a powerful Ice-type attack that hits hard.
+Crystal Bolt,Ice,36,A charged Ice attack that may leave the foe stunned.
+Blazing Pulse,Ice,22,A technique that channels Ice energy into a devastating move.
+Fiery Ray,Ice,32,Unleashes a powerful Ice-type attack that hits hard.
+Venomous Wave,Ice,50,Unleashes a powerful Ice-type attack that hits hard.
+Frozen Pulse,Rock,27,A charged Rock attack that may leave the foe stunned.
+Venomous Burst,Rock,22,A technique that channels Rock energy into a devastating move.
+Savage Blast,Rock,44,Generates a wave of Rock force to disrupt the opponent.
+Blazing Fury,Rock,38,A charged Rock attack that may leave the foe stunned.
+Venomous Pulse,Rock,35,A charged Rock attack that may leave the foe stunned.
+Lunar Strike,Rock,32,Generates a wave of Rock force to disrupt the opponent.
+Solar Strike,Rock,33,A charged Rock attack that may leave the foe stunned.
+Phantom Spike,Rock,34,Generates a wave of Rock force to disrupt the opponent.
+Phantom Slash,Rock,49,A technique that channels Rock energy into a devastating move.
+Shocking Strike,Rock,28,A technique that channels Rock energy into a devastating move.
+Lunar Slash,Normal,25,Unleashes a powerful Normal-type attack that hits hard.
+Solar Whirl,Normal,39,Unleashes a powerful Normal-type attack that hits hard.
+Blazing Ray,Normal,24,A charged Normal attack that may leave the foe stunned.
+Crystal Blast,Normal,29,A charged Normal attack that may leave the foe stunned.
+Venomous Fury,Normal,34,Generates a wave of Normal force to disrupt the opponent.
+Frozen Whirl,Normal,41,An explosive Normal strike that radiates raw energy.
+Phantom Bolt,Normal,47,Generates a wave of Normal force to disrupt the opponent.
+Thunder Blast,Normal,32,A charged Normal attack that may leave the foe stunned.
+Shocking Bolt,Normal,36,An explosive Normal strike that radiates raw energy.
+Solar Slash,Normal,26,Unleashes a powerful Normal-type attack that hits hard.
+Crystal Ray,Psychic,41,Generates a wave of Psychic force to disrupt the opponent.
+Phantom Burst,Psychic,20,Unleashes a powerful Psychic-type attack that hits hard.
+Shocking Charge,Psychic,29,A technique that channels Psychic energy into a devastating move.
+Blazing Spike,Psychic,45,Unleashes a powerful Psychic-type attack that hits hard.
+Crystal Charge,Psychic,24,An explosive Psychic strike that radiates raw energy.
+Venomous Strike,Psychic,26,Unleashes a powerful Psychic-type attack that hits hard.
+Phantom Ray,Psychic,29,A technique that channels Psychic energy into a devastating move.
+Frozen Bolt,Psychic,38,An explosive Psychic strike that radiates raw energy.
+Mystic Fury,Psychic,48,Generates a wave of Psychic force to disrupt the opponent.
+Mystic Blast,Psychic,48,Generates a wave of Psychic force to disrupt the opponent.
+Crystal Spike,Dark,30,A technique that channels Dark energy into a devastating move.
+Solar Ray,Dark,39,Generates a wave of Dark force to disrupt the opponent.
+Venomous Charge,Dark,50,An explosive Dark strike that radiates raw energy.
+Frozen Slash,Dark,34,Unleashes a powerful Dark-type attack that hits hard.
+Thunder Ray,Dark,27,An explosive Dark strike that radiates raw energy.
+Lunar Charge,Dark,35,Unleashes a powerful Dark-type attack that hits hard.
+Thunder Whirl,Dark,20,A technique that channels Dark energy into a devastating move.
+Frozen Burst,Dark,37,An explosive Dark strike that radiates raw energy.
+Phantom Pulse,Dark,37,An explosive Dark strike that radiates raw energy.
+Venomous Slash,Dark,50,An explosive Dark strike that radiates raw energy.
+Crystal Wave,Steel,20,An explosive Steel strike that radiates raw energy.
+Thunder Strike,Steel,45,A charged Steel attack that may leave the foe stunned.
+Solar Fury,Steel,33,A technique that channels Steel energy into a devastating move.
+Crystal Fury,Steel,49,A charged Steel attack that may leave the foe stunned.
+Venomous Spike,Steel,20,An explosive Steel strike that radiates raw energy.
+Savage Slash,Steel,50,Unleashes a powerful Steel-type attack that hits hard.
+Shocking Fury,Steel,37,Generates a wave of Steel force to disrupt the opponent.
+Frozen Wave,Steel,22,A technique that channels Steel energy into a devastating move.
+Phantom Charge,Steel,47,A technique that channels Steel energy into a devastating move.
+Fiery Bolt,Steel,39,A charged Steel attack that may leave the foe stunned.
+Crystal Burst,Fairy,25,Unleashes a powerful Fairy-type attack that hits hard.
+Mystic Spike,Fairy,24,Unleashes a powerful Fairy-type attack that hits hard.
+Frozen Spike,Fairy,45,Unleashes a powerful Fairy-type attack that hits hard.
+Solar Wave,Fairy,48,A charged Fairy attack that may leave the foe stunned.
+Savage Fury,Fairy,30,Generates a wave of Fairy force to disrupt the opponent.
+Lunar Spike,Fairy,22,A technique that channels Fairy energy into a devastating move.
+Savage Wave,Fairy,43,Generates a wave of Fairy force to disrupt the opponent.
+Savage Burst,Fairy,50,An explosive Fairy strike that radiates raw energy.
+Phantom Whirl,Fairy,42,A technique that channels Fairy energy into a devastating move.
+Solar Burst,Fairy,30,An explosive Fairy strike that radiates raw energy.

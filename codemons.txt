@@ -1,0 +1,55 @@
+Flametail,Fire,A swift fire fox with a burning tail.
+Emberclaw,Fire,A feline with claws that ignite.
+Pyropup,Fire,A playful pup radiating heat.
+Blazefin,Fire,A blazing fish with molten scales.
+Cinderno,Fire,A horned beast smoldering with sparks.
+Hydrake,Water,A serpentine water dragon.
+Aqualope,Water,A nimble antelope that rides currents.
+Droplett,Water,A bubbly creature of pure water.
+Rainscale,Water,A fish with storm-charged fins.
+Tidekin,Water,A seahorse with tidal powers.
+Leafcub,Grass,A small but fierce jungle feline.
+Mossaur,Grass,A dinosaur covered in thick moss.
+Thornlet,Grass,A bushy critter with thorny armor.
+Verdlume,Grass,A glowing plant sprite.
+Petalbun,Grass,A bunny blooming with flower petals.
+Zapkit,Electric,A nimble cub that stores static energy.
+Voltowl,Electric,An owl that glows with electric feathers.
+Shockroach,Electric,A buzzing bug with shocking legs.
+Sparkoon,Electric,A raccoon that emits bright sparks.
+Thundroll,Electric,A hedgehog that rolls in thunder.
+Frosthorn,Ice,A horned beast of the tundra.
+Chillipup,Ice,A chilly pup with snowflake fur.
+Iciclaw,Ice,A cat with icicle-like claws.
+Glaciwing,Ice,A bird with wings of frozen wind.
+Snowdrip,Ice,A gentle creature dripping with frost.
+Pebblin,Rock,A mischievous rock imp.
+Stonox,Rock,A large golem with glowing veins.
+Bouldash,Rock,A rolling boulder beast.
+Granituff,Rock,A dog with granite armor.
+Craggit,Rock,A lizard hiding in crags.
+Plainpup,Normal,An ordinary pup with extraordinary courage.
+Dozey,Normal,A sleepy creature that’s full of surprises.
+Meadoween,Normal,A meadow critter with keen senses.
+Mundillo,Normal,A rolling creature of modest power.
+Snuffit,Normal,A curious nosey-nose beast.
+Mindimp,Psychic,A psychic imp that distorts reality.
+Dreamoon,Psychic,A floating moonchild of thought.
+Wispeye,Psychic,A disembodied eye that sees all.
+Brainetta,Psychic,A cerebral orb with glowing runes.
+Psycharoo,Psychic,A kangaroo with mind-bending leaps.
+Shadewisp,Dark,A ghostly shadow that whispers.
+Noctibite,Dark,A bat that feeds on fear.
+Duskrat,Dark,A sneaky rodent cloaked in darkness.
+Voidpaw,Dark,A beast with paws fading into void.
+Creeperoo,Dark,A monster that lurks just out of view.
+Ironmaw,Steel,A beast with jaws of iron.
+Gearbit,Steel,A tiny metal creature with rotating jaws.
+Clankoon,Steel,A raccoon of clinking plates.
+Steelshade,Steel,A stealthy shadow of steel.
+Tinling,Steel,A playful automaton child.
+Twinklepix,Fairy,A mischievous fairy who giggles a lot.
+Glimber,Fairy,A glittering butterfly creature.
+Charmouf,Fairy,A fluffy charmer with sparkling fur.
+Fayfin,Fairy,A glowing fish of whimsy.
+Mystuff,Fairy,A magical critter of unknown power.

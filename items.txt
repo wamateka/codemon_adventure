@@ -1,0 +1,25 @@
+Potion,Heal,20,Restores a small amount of HP.
+MegaPotion,Heal,40,Restores a moderate amount of HP.
+Elixir,Boost,15,Increases attack power temporarily.
+SuperElixir,Boost,30,Greatly boosts attack power.
+Barrier,Shield,10,Raises a basic protective shield.
+Fortress,Shield,20,Creates a strong defensive barrier.
+SwiftBoots,Boost,10,Increases movement speed slightly.
+VitalLeaf,Heal,25,A rare leaf that rejuvenates HP.
+IronWall,Shield,15,Summons an iron wall for defense.
+EnergyDrink,Boost,20,Boosts energy for quick actions.
+HyperPotion,Heal,60,Fully restores a large amount of HP.
+SteelGuard,Shield,25,Forms an unbreakable shield.
+MagicDust,Boost,12,Magical dust that enhances abilities.
+HealingOrb,Heal,35,Heals major wounds over time.
+GuardianAmulet,Shield,18,Amulet that protects against damage.
+PhoenixDown,Heal,100,Revives a fainted Codémon with full HP.
+DragonShield,Shield,50,An ancient shield that halves incoming damage.
+StarDust,Boost,40,Infuses Codémon with celestial power.
+NatureCore,Heal,75,Heals the entire team gradually over time.
+TitanArmor,Shield,60,Makes the Codémon invulnerable for one turn.
+RageOrb,Boost,50,Dramatically increases attack power next turn.
+SoulElixir,Heal,120,Restores HP and removes all negative effects.
+VoidCloak,Shield,40,Shrouds Codémon to avoid the next attack.
+ZenRoot,Boost,35,Improves both defense and attack moderately.
+AncientScroll,Boost,60,Grants a powerful skill for one battle.
